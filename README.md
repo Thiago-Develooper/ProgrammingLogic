@@ -1,2 +1,2 @@
 # ProgrammingLogic
-Just a repository that contains the first codes, still written in poltugol pseudocode.
+Just a repository that contains the first codes, still written in poltugol pseudocode, using the visualG platform.
